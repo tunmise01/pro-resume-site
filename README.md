@@ -1,2 +1,5 @@
-# pro-resume-site
-A simple, responsive resume service website offering ATS-optimized resumes to help job seekers land interviews faster.
+pro-resume-site/
+├── index.html
+├── style.css
+├── images/
+└── README.md
